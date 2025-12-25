@@ -1,0 +1,5 @@
+{
+  "name": "mathmaster-ai",
+  "description": "An adaptive math learning platform that adjusts difficulty in real-time based on your grade and topic proficiency.",
+  "requestFramePermissions": []
+}
